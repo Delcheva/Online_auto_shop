@@ -1,0 +1,62 @@
+ID,Part Name,Category,Compatible Models-Year,Stock,Price,Original_Price
+1,Strap,Engine,BMW 316i-1999,50, 250, 240
+2,Strap,Engine,Audi A3-2005\ VW Golf-2005\ Seat Leon-2006\ Skoda Fabia-2010,50, 340, 330
+3,Strap,Engine,Peugeot-206-2009\ Citroen C4-2010\ Nissan Micra-2008,50,200,190
+4,Strap,Engine,Mercedes C220-2010,50, 450, 440
+5,Strap,Engine,Ford Focus-2006\ Mazda 3-2007\ Volvo C40-2010,50, 590, 580
+6,Gasket,Engine,BMW 316i-1999,60, 280, 270
+7,Gasket,Engine,Audi A3-2005\ VW Golf-2005\ Seat Leon-2006\ Skoda Fabia-2010,70, 390, 380
+8,Gasket,Engine,Peugeot-206-2009\ Citroen C4-2010\ Nissan Micra-2008,80,190,180
+9,Gasket,Engine,Mercedes C220-2010,10,420,410
+10,Gasket,Engine,Ford Focus-2006\ Mazda 3-2007\ Volvo C40-2010,25, 320,310
+11,Suspension,Engine,BMW 316i-1999,87, 280, 270
+12,Suspension,Engine,Audi A3-2005\ VW Golf-2005\ Seat Leon-2006\ Skoda Fabia-2010,45,390,380
+13,Suspension,Engine,Peugeot-206-2009\ Citroen C4-2010\ Nissan Micra-2008,57,190,180
+14,Suspension,Engine,Mercedes C220-2010,45,420,410
+15,Suspension,Engine,Ford Focus-2006\ Mazda 3-2007\ Volvo C40-2010,6,320,310
+16,Oil filter,Engine,BMW 316i-1999,2,280,270
+17,Oil filter,Engine,Audi A3-2005\ VW Golf-2005\ Seat Leon-2006\ Skoda Fabia-2010,65,390,380
+18,Oil filter,Engine,Peugeot-206-2009\ Citroen C4-2010\ Nissan Micra-2008,87,190,180
+19,Oil filter,Engine,Mercedes C220-2010,45,420,410
+20,Oil filter,Engine,Ford Focus-2006\ Mazda 3-2007\ Volvo C40-2010,34,320,310
+21,Water pump,Engine,BMW 316i-1999,78,280,270
+22,Water pump,Engine,Audi A3-2005\ VW Golf-2005\ Seat Leon-2006\ Skoda Fabia-2010,43,390,380
+23,Water pump,Engine,Peugeot-206-2009\ Citroen C4-2010\ Nissan Micra-2008,65,190,180
+24,Water pump,Engine,Mercedes C220-2010,32,420,410
+25,Water pump,Engine,Ford Focus-2006\ Mazda 3-2007\ Volvo C40-2010,65,320,310
+26,Fuel filter,Engine,BMW 316i-1999,54,280,270
+27,Fuel filter,Engine,Audi A3-2005\ VW Golf-2005\ Seat Leon-2006\ Skoda Fabia-2010,43,390,380
+28,Fuel filter,Engine,Peugeot-206-2009\ Citroen C4-2010\ Nissan Micra-2008,65,190,180
+29,Fuel filter,Engine,Mercedes C220-2010,43,420,410
+30,Fuel filter,Engine,Ford Focus-2006\ Mazda 3-2007\ Volvo C40-2010,56, 320, 310
+31,Connector wire,Transmission,BMW 316i-1999,45, 280, 270
+32,Connector wire,Transmission,Audi A3-2005\ VW Golf-2005\ Seat Leon-2006\ Skoda Fabia-2010,87, 390, 380
+33,Connector wire,Transmission,Peugeot-206-2009\ Citroen C4-2010\ Nissan Micra - 2008,67,190,180
+34,Connector wire,Transmission,Mercedes C220-2010,3, 420, 410
+35,Connector wire,Transmission,Ford Focus-2006\ Mazda 3-2007\ Volvo C40-2010,7, 320, 310
+36,Flywheel disk,Transmission,BMW 316i-1999,3, 280, 270
+37,Flywheel disk,Transmission,Audi A3-2005\ VW Golf-2005\ Seat Leon-2006\ Skoda Fabia-2010,77, 390, 380
+38,Flywheel disk,Transmission,Peugeot-206-2009\ Citroen C4-2010\ Nissan Micra-2008,10, 190,180
+39,Flywheel disk,Transmission,Mercedes C220-2010,8, 420, 410
+40,Flywheel disk,Transmission,Ford Focus-2006\ Mazda 3-2007\ Volvo C40-2010,6, 320, 310
+41,Clutch pedal,Transmission,BMW 316i-1999,2, 280, 270
+42,Clutch pedal,Transmission,Audi A3-2005\ VW Golf-2005\ Seat Leon-2006\ Skoda Fabia-2010,98, 390, 380
+43,Clutch pedal,Transmission,Peugeot-206-2009\ Citroen C4-2010\ Nissan Micra-2008,5, 190,180
+44,Clutch pedal,Transmission,Mercedes C220-2010,9, 420, 410
+45,Clutch pedal,Transmission,Ford Focus-2006\ Mazda 3-2007\ Volvo C40-2010,5, 320, 310
+46,Brake disks,BreakSystem,BMW 316i-1999, 5,280, 270
+47,Brake disks,BreakSystem,Audi A3-2005\ VW Golf-2005\ Seat Leon-2006\ Skoda Fabia-2010,76, 390, 380
+48,Brake disks,BreakSystem,Peugeot-206-2009\ Citroen C4-2010\ Nissan Micra-2008,87,190,180
+49,Brake disks,BreakSystem,Mercedes C220-2010,12, 420, 410
+50,Brake disks,BreakSystem,Ford Focus-2006\ Mazda 3-2007\ Volvo C40-2010, 76,320, 310
+51,Brake hoses,BreakSystem,BMW 316i-1999,22, 280, 270
+52,Brake hoses,BreakSystem,Audi A3-2005\ VW Golf-2005\ Seat Leon-2006\ Skoda Fabia-2010,34, 390, 380
+53,Brake hoses,BreakSystem,Peugeot-206-2009\ Citroen C4-2010\ Nissan Micra-2008,54,190,180
+54,Brake hoses,BreakSystem,Mercedes C220-2010,65, 420, 410
+55,Brake hoses,BreakSystem,Ford Focus-2006\ Mazda 3-2007\ Volvo C40-2010,54, 320, 310
+56,Brake drum,BreakSystem,BMW 316i-1999,14, 280, 270
+57,Brake drum,BreakSystem,Audi A3-2005\ VW Golf-2005\ Seat Leon-2006\ Skoda Fabia-2010, 21,390, 380
+58,Brake drum,BreakSystem,Peugeot-206-2009\ Citroen C4-2010\ Nissan Micra-2008,56,190,180
+59,Brake drum,BreakSystem,Mercedes C220-2010,10, 420, 410
+60,Brake drum,BreakSystem,Ford Focus-2006\ Mazda 3-2007\ Volvo C40-2010,11, 320, 310
+
